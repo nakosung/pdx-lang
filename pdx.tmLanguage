@@ -6,10 +6,6 @@
 	<array>
 		<string>pdx</string>
 	</array>
-	<key>firstLineMatch</key>
-	<string>&lt;\!--\s*pdx\s*--&gt;</string>
-	<key>keyEquivalent</key>
-	<string>^~X</string>
 	<key>name</key>
 	<string>PDX</string>
 	<key>patterns</key>
